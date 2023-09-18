@@ -4,7 +4,7 @@ body {
 }
 
 .sender-column {
-  text-align: right;
+  text-align: right; // Alinea texto a la derecha
 }
 
 h1 {
